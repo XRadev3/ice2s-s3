@@ -1,0 +1,6 @@
+pip==20.2.3
+setuptools==39.2.0
+Werkzeug==1.0.0
+pytest==5.4.1
+flask==1.1.1
+gevent==1.2.1
